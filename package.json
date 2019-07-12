@@ -10,7 +10,6 @@
   },
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js",
-    "setup": "cp .env.example .env"
+    "dev": "nodemon index.js"
   }
 }
